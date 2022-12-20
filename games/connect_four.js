@@ -1,5 +1,5 @@
 /*
-@title: connect_four
+@title: connect_fout
 @author: sam liu
 
 The typical Connect Four game.
